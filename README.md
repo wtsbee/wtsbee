@@ -1,7 +1,9 @@
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api?username=wtsbee&count_private=true&show_icons=true&theme=tokyonight" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wtsbee&count_private=true&show_icons=true&theme=tokyonight" />
-</p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=wtsbee&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wtsbee&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
 
 <!--
 **wtsbee/wtsbee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
